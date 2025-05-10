@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+transformers
+torch
+datasets
+sentence-transformers
+python-telegram-bot==20.3
+requests
+scikit-learn
+tqdm
+fuzzywuzzy
+camel-tools

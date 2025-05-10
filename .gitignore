@@ -1,0 +1,31 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+*.env
+
+# Logs and cache
+*.log
+*.db
+*.sqlite3
+
+.env
+config/config.yaml
+
+# Model/Data files
+*.pt
+*.bin
+*.jsonl
+
+# System/IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Project-specific files
+data/processed/fatwa_embeddings.pt
+data/processed/faiss_index.bin
+config/config.yaml
